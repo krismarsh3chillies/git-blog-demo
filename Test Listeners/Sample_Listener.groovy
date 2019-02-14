@@ -39,6 +39,7 @@ class Sample_Listener {
 		WebUI.openBrowser(null)
 		WebUI.navigateToUrl(GlobalVariable.baseURL)
 		WebUI.maximizeWindow()
+		//adding
 	}
 
 	/**
